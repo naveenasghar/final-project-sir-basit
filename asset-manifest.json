@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/final-project-sir-basit/static/css/main.30af561e.css",
+    "main.js": "/final-project-sir-basit/static/js/main.e14b8ea3.js",
+    "index.html": "/final-project-sir-basit/index.html",
+    "main.30af561e.css.map": "/final-project-sir-basit/static/css/main.30af561e.css.map",
+    "main.e14b8ea3.js.map": "/final-project-sir-basit/static/js/main.e14b8ea3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30af561e.css",
+    "static/js/main.e14b8ea3.js"
+  ]
+}
